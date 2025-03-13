@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import streamlit as st
+
 st.title("This is my streamlit app for 13 March 2025")
 st.header("The module code is EDAB6808")
 st.subheader("This is a fun and interactive module")
